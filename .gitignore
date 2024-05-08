@@ -1,0 +1,7 @@
+.pytest_cache/
+__pycache__/
+.ruff_cache/
+.ipynb_checkpoints
+*.egg-info
+notebooks/draft.ipynb
+working/

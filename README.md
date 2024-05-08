@@ -12,6 +12,8 @@ Original and intermediate data is available upon request.
 
 ### Navigation
 
+**Note**: it appears links below don't work on github. They do locally/in vscode
+
 [`notebooks/ts-energy-intro.ipynb`](/notebooks/ts-energy-intro.ipynb): basic EDA and preprocessing (boring, skip)  
 [`notebooks/ts-energy-main.ipynb`](/notebooks/ts-energy-main.ipynb): feature construction, training and troubleshooting 
 
